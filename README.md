@@ -7,11 +7,11 @@
 
 --
 
-🖥️ CodePause is a minimalist, design-focused menubar application aimed at helping developers "Move More Dev!" and combat the 'sitting disease' 🪑 associated with long coding sessions. This lightweight tool seamlessly integrates into your workflow, providing gentle reminders at customizable intervals to take short fitness breaks. ⏰
+🖥️ **CodePause** is a minimalist, design-focused menubar application aimed at helping developers and combat the 'sitting disease' 🪑 associated with long coding sessions. This lightweight tool seamlessly integrates into your workflow, providing gentle reminders at customizable intervals to take short fitness breaks. ⏰
 
 💪 Designed to help you maintain your health without disrupting your productivity, CodePause offers a clean, system-native interface that blends perfectly with your operating system. With just a click, you can access a variety of quick and effective workout exercises tailored for the office environment. 🏋️‍♂️
 
-Key features:
+**Key features**:
 
 ⚙️ Customizable reminder intervals to suit your work style
 🧘‍♂️ Curated selection of desk-friendly workout exercises
