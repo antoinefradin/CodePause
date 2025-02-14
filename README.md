@@ -1,7 +1,7 @@
 # CodePause
 > A minimalist app for developers to combat sedentary work habits with short-timed fitness breaks and quick workout suggestions.
 
-[logo]
+![Project Logo](./images/logo_cover.png)
 
 <sub>**Watch/Star ⭐ the repo to be notified when updates are pushed**</sub>
 
